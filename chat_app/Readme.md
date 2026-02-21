@@ -1,4 +1,4 @@
 # Запуск и проверка тестов
-## Запуск сервера: npm run start
+Запуск сервера: npm run start
 # Запуск тестов
-## py test_chat.py
+py test_chat.py
